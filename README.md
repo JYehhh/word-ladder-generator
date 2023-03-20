@@ -1,6 +1,6 @@
 # word-ladder-generator
 
-##Overview
+##Overview. 
 This project aims to create a C++ program that generates all possible word ladders between two given words using a lexicon of valid words. A word ladder is a sequence of words, where each word in the sequence is formed by changing a single letter from the previous word, and all the words in the sequence are valid according to the given lexicon. For example, for the words "work" and "play", the valid word ladders are: 
 
 ```
