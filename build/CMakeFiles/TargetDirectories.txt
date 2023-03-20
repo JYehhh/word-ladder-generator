@@ -1,0 +1,8 @@
+/Users/jyeh/Desktop/COMP6771/ass1/build/CMakeFiles/catch2_main.dir
+/Users/jyeh/Desktop/COMP6771/ass1/build/CMakeFiles/word_ladder.dir
+/Users/jyeh/Desktop/COMP6771/ass1/build/CMakeFiles/debugging.dir
+/Users/jyeh/Desktop/COMP6771/ass1/build/CMakeFiles/word_ladder_test_exe.dir
+/Users/jyeh/Desktop/COMP6771/ass1/build/CMakeFiles/word_ladder_benchmark_exe.dir
+/Users/jyeh/Desktop/COMP6771/ass1/build/CMakeFiles/test.dir
+/Users/jyeh/Desktop/COMP6771/ass1/build/CMakeFiles/edit_cache.dir
+/Users/jyeh/Desktop/COMP6771/ass1/build/CMakeFiles/rebuild_cache.dir
